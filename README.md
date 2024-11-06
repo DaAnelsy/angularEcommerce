@@ -55,6 +55,6 @@ To see the back-end of this application implemented with Java Spring, see [here]
 
 ![Cart Summary](https://i.imgur.com/WMvoIiF.png)
 
-### 404 NOT FOUND**
+### 404 NOT FOUND
 
 ![404 NOT FOUND](https://i.imgur.com/CfT5Aks.png)
